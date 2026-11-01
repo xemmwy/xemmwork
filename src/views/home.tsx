@@ -1,8 +1,9 @@
-import { Fragment, useMemo } from 'react'
+import { Fragment, useMemo, useRef } from 'react'
 import { ArrowDownRight, ArrowUpRight } from 'lucide-react'
 import { Pic } from '@/components/pic'
 import { useLightbox } from '@/components/lightbox'
 import { DitherFade, Plus, Reveal, SectionHead } from '@/components/marks'
+import { TypesetGuides, useTypeset } from '@/components/typeset'
 import { Websites } from '@/components/websites'
 import { content, years, type Brand, type Shot } from '@/lib/content'
 import { toSection } from '@/lib/route'
@@ -34,6 +35,9 @@ function underline(text: string, words: string[]) {
 }
 
 function Hero() {
+  const frame = useRef<HTMLElement>(null)
+  const head = useRef<HTMLHeadingElement>(null)
+  const { playing, late, layout } = useTypeset(frame, head)
   const stats = [
     { id: 'brands', n: brands.length, label: 'Brand identities' },
     { id: 'logos', n: logos.length + marks.length, label: 'Logos and marks' },
@@ -41,14 +45,23 @@ function Hero() {
     { id: 'graphics', n: graphics.length, label: 'Graphic designs' },
   ]
   return (
-    <section className="framed pt-[clamp(44px,8vw,120px)]">
+    <section ref={frame} className="framed pt-[clamp(44px,8vw,120px)]">
+      {playing && layout && <TypesetGuides layout={layout} />}
       <div className="t-label rise-in">{site.studio} · Portfolio of {site.name} · {years.from}–{years.to}</div>
-      <h1 className="t-display mt-6 max-w-[19ch] rise-in" style={{ animationDelay: '60ms' }}>
+      <h1 ref={head} className={cn('t-display relative z-[1] mt-6 max-w-[19ch]', !late && 'rise-in')} style={late ? undefined : { animationDelay: '60ms' }}>
         {site.intro.map((line, i) => (
-          <span key={i} className={cn('block', i === 0 && 'text-dim')}>{underline(line, ['brands', 'websites'])}</span>
+          <span
+            key={i}
+            data-line
+            className={cn('block', i === 0 && 'text-dim', playing && (layout ? 'typeset-line' : 'typeset-wait'))}
+            style={playing && layout ? { animationDelay: `${150 + i * 140}ms` } : undefined}
+          >
+            {playing && <i className="probe" />}
+            {underline(line, ['brands', 'websites'])}
+          </span>
         ))}
       </h1>
-      <div className="cells mt-[clamp(36px,6vw,80px)] grid grid-cols-2 lg:grid-cols-4 rise-in" style={{ animationDelay: '140ms' }}>
+      <div className="cells mt-[clamp(36px,6vw,80px)] grid grid-cols-2 lg:grid-cols-4 rise-in" style={{ animationDelay: late ? '720ms' : '140ms' }}>
         {stats.map((s) => (
           <button key={s.id} onClick={() => toSection(s.id)} className="dz-card group flex items-end justify-between gap-3 bg-canvas p-5 text-left transition-colors hover:bg-surface">
             <span>
@@ -180,16 +193,31 @@ function Wall({ items, cols }: { items: Shot[]; cols?: number }) {
   return (
     <div className="masonry mt-8" style={cols ? ({ ['--cols' as string]: cols }) : undefined}>
       {items.map((s, i) => (
-        <button key={i} onClick={() => open(items, i)} className="lift group relative overflow-hidden text-left" aria-label={`${s.title}, ${s.sub}`}>
-          <Pic img={s.img} alt="" />
-          <div className="cap">
-            <DitherFade />
-            <div className="flex items-baseline justify-between gap-3 bg-canvas px-3 py-2.5">
-              <span className="truncate text-[14px] font-medium tracking-[-.01em] text-ink">{s.title}</span>
-              <span className="shrink-0 text-[12.5px] tabular-nums text-dim">{s.sub}</span>
+        <div key={i} className="spec">
+          <button onClick={() => open(items, i)} className="lift group relative block w-full overflow-hidden text-left" aria-label={`${s.title}, ${s.sub}`}>
+            <Pic img={s.img} alt="" />
+            <div className="cap">
+              <DitherFade />
+              <div className="bg-canvas px-3 py-2.5">
+                <div className="flex items-baseline justify-between gap-3">
+                  <span className="truncate text-[14px] font-medium tracking-[-.01em] text-ink">{s.title}</span>
+                  <span className="shrink-0 text-[12.5px] tabular-nums text-dim">{s.sub}</span>
+                </div>
+                {s.img.real && (
+                  <div className="spec-line mt-1 flex items-center justify-between gap-3 text-[12px] tabular-nums text-dim">
+                    <span className="truncate">{s.img.real.w} × {s.img.real.h} {s.img.real.unit}</span>
+                    <span className="flex shrink-0 items-center gap-1.5">
+                      <i className="swatch" style={{ background: s.img.color }} />
+                      {s.img.color.toUpperCase()}
+                    </span>
+                  </div>
+                )}
+              </div>
             </div>
-          </div>
-        </button>
+          </button>
+          {/* print-proof crop marks at the trim, shown while the piece is hovered or focused */}
+          <span className="crop" aria-hidden />
+        </div>
       ))}
     </div>
   )

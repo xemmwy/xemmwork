@@ -271,6 +271,62 @@ html.route-dither::view-transition-new(root) { animation: dz-develop .36s steps(
 .masonry { columns: var(--cols, 4); column-gap: 14px; }
 .masonry > * { break-inside: avoid; margin-bottom: 14px; display: block; width: 100%; }
 
+/* spec marks: a hovered or focused poster gets print-proof crop marks just outside its trim (in the gap,
+   so they never cover the work), and its caption adds the file's real size and colour */
+.spec { position: relative; --cm: 10px; --co: 3px; }
+.crop {
+  --c: var(--x-accent); --e: calc(var(--cm) + var(--co));
+  position: absolute; inset: calc(-1 * var(--e)); z-index: 2; pointer-events: none; opacity: 0;
+  background:
+    linear-gradient(var(--c), var(--c)) left 0 top var(--e) / var(--cm) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) left var(--e) top 0 / 1px var(--cm) no-repeat,
+    linear-gradient(var(--c), var(--c)) right 0 top var(--e) / var(--cm) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) right var(--e) top 0 / 1px var(--cm) no-repeat,
+    linear-gradient(var(--c), var(--c)) left 0 bottom var(--e) / var(--cm) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) left var(--e) bottom 0 / 1px var(--cm) no-repeat,
+    linear-gradient(var(--c), var(--c)) right 0 bottom var(--e) / var(--cm) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) right var(--e) bottom 0 / 1px var(--cm) no-repeat;
+  -webkit-mask-size: 8px 8px; mask-size: 8px 8px;
+}
+.spec:hover .crop, .spec:has(:focus-visible) .crop { opacity: 1; animation: dz-develop .3s steps(1) both; }
+.swatch { width: 8px; height: 8px; flex: none; outline: 1px solid var(--x-sep); }
+@media (hover: none) { .spec-line { display: none; } }
+
+/* first visit: the hero sets itself on orange baseline guides, then they dissolve (components/typeset.tsx) */
+.probe { display: inline-block; width: 0; height: 0; }
+.typeset { position: absolute; inset: 0; pointer-events: none; }
+.typeset > i {
+  position: absolute; left: 0; right: 0; height: 1px; background: var(--x-accent); transform-origin: 0 0;
+  -webkit-mask-size: 8px 8px; mask-size: 8px 8px;
+  animation: guide-draw .42s cubic-bezier(.22, 1, .36, 1) both, dz-gone .28s steps(1) forwards;
+}
+.typeset > span {
+  position: absolute; right: 0; transform: translateY(calc(-100% - 10px));
+  font-size: 12px; font-weight: 500; letter-spacing: .01em; color: var(--x-accent); white-space: nowrap;
+  -webkit-mask-size: 8px 8px; mask-size: 8px 8px;
+  animation: dz-set .3s steps(1) .24s both, dz-gone .28s steps(1) .8s forwards;
+}
+.typeset-wait { opacity: 0; }
+.typeset-line { -webkit-mask-size: 8px 8px; mask-size: 8px 8px; animation: dz-set .48s steps(1) both; }
+@keyframes guide-draw { from { transform: scaleX(0); } }
+@keyframes dz-set {
+  0%   { opacity: 0; }
+  12%  { opacity: 1; -webkit-mask-image: var(--dz-2); mask-image: var(--dz-2); }
+  30%  { -webkit-mask-image: var(--dz-4); mask-image: var(--dz-4); }
+  48%  { -webkit-mask-image: var(--dz-6); mask-image: var(--dz-6); }
+  66%  { -webkit-mask-image: var(--dz-8); mask-image: var(--dz-8); }
+  84%  { -webkit-mask-image: var(--dz-12); mask-image: var(--dz-12); }
+  100% { opacity: 1; -webkit-mask-image: none; mask-image: none; }
+}
+@keyframes dz-gone {
+  0%   { -webkit-mask-image: var(--dz-12); mask-image: var(--dz-12); }
+  25%  { -webkit-mask-image: var(--dz-8); mask-image: var(--dz-8); }
+  50%  { -webkit-mask-image: var(--dz-4); mask-image: var(--dz-4); }
+  75%  { -webkit-mask-image: var(--dz-2); mask-image: var(--dz-2); }
+  100% { opacity: 0; }
+}
+@media (max-width: 640px) { .typeset > span { display: none; } }
+
 /* marquee of marks */
 .marquee { display: flex; width: max-content; animation: marquee 70s linear infinite; }
 .marquee:hover { animation-play-state: paused; }
@@ -294,6 +350,9 @@ html.theme-fade::view-transition-old(root), html.theme-fade::view-transition-new
   .reveal { opacity: 1; transform: none; transition: none; }
   .pic > img, .cap, .navblock { transition: none; }
   .logo-tile:hover .alt { -webkit-mask: none; mask: none; }
+  .spec:hover .crop, .spec:has(:focus-visible) .crop { animation: none; }
+  .typeset { display: none; }
+  .typeset-line { animation: none; }
 }
 @media (max-width: 1100px) { .masonry { --cols: 3; } }
-@media (max-width: 760px) { .page { padding-inline: 16px; } .masonry { --cols: 2; column-gap: 8px; } .masonry > * { margin-bottom: 8px; } }
+@media (max-width: 760px) { .page { padding-inline: 16px; } .masonry { --cols: 2; column-gap: 8px; } .masonry > * { margin-bottom: 8px; } .spec { --cm: 5px; --co: 2px; } }

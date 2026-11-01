@@ -1,7 +1,11 @@
 import raw from '../content.json'
 
 // Written by curate/render.py from curate/picks.py. Edit the picks, not this data.
-export type Img = { src: string; thumb: string; w: number; h: number; color: string; anim: boolean }
+export type Img = {
+  src: string; thumb: string; w: number; h: number; color: string; anim: boolean
+  /** the artwork's own size (posters and graphics): pixels for images, millimetres for Illustrator artboards */
+  real?: { w: number; h: number; unit: 'px' | 'mm' } | null
+}
 export type Brand = { slug: string; title: string; kind: string; year: number; blurb: string; tags: string[]; cover: Img; items: Img[] }
 export type Logo = { name: string; img: Img; alt: Img; n: number }
 export type Mark = { name: string; img: Img }
