@@ -1,0 +1,2896 @@
+{
+ "site": {
+  "name": "Mustufa Mahmood",
+  "alias": "EMM",
+  "studio": "Emmency",
+  "intro": [
+   "Hi, it’s EMM.",
+   "I design brands and websites."
+  ],
+  "lead": "Hi, it’s EMM. I’m a Design Generalist, specialising in Brand Design.",
+  "about": [
+   "Brand identities, logos, websites, posters and social graphics, for clients and for my own brands.",
+   "Emmency is my studio. The House of EMM is where my own brands live."
+  ],
+  "house": [
+   "Emmency",
+   "Alchemmy",
+   "Fremm",
+   "Wirefremm",
+   "Supwremm",
+   "Recemmend"
+  ],
+  "handles": [
+   {
+    "label": "@xemmwy",
+    "url": "https://www.instagram.com/xemmwy/"
+   },
+   {
+    "label": "@emmency",
+    "url": "https://www.instagram.com/emmency/"
+   }
+  ],
+  "websites": [
+   {
+    "slug": "leadify",
+    "title": "Leadify Systems",
+    "year": 2026,
+    "kind": "Client",
+    "tags": [
+     "Website",
+     "Advertiser portal",
+     "Brand system"
+    ],
+    "original": {
+     "img": "websites/leadify-original.webp",
+     "thumb": "websites/leadify-original.t.webp",
+     "tag": "Original · the client's site, not my design"
+    },
+    "versions": [
+     {
+      "label": "Selected",
+      "tag": "Selected (v2) · Signal Board redesign · 2026",
+      "img": "websites/leadify-v2.webp",
+      "thumb": "websites/leadify-v2.t.webp",
+      "live": "https://emmxleadifysys-gf6i9i4tv-xemmwy.vercel.app/"
+     },
+     {
+      "label": "V1",
+      "tag": "V1 · First redesign · 2026 · Archive",
+      "img": "websites/leadify-v1.webp",
+      "thumb": "websites/leadify-v1.t.webp",
+      "live": "https://emmxleadifysys-447yhmo7k-xemmwy.vercel.app/"
+     }
+    ]
+   }
+  ],
+  "email": "",
+  "source": "https://github.com/xemmwy/xemmwork"
+ },
+ "brands": [
+  {
+   "slug": "fleur",
+   "title": "Fleur",
+   "kind": "Client",
+   "year": 2024,
+   "blurb": "Identity for Fleur, a beauty and bridal makeup brand: wordmark with its asterisk bloom, flower icon, colour palette, moodboard and launch posts.",
+   "tags": [
+    "Logo",
+    "Visual identity",
+    "Social"
+   ],
+   "cover": {
+    "src": "work/fleur-cover-b91391.webp",
+    "thumb": "work/fleur-cover-b91391.t.webp",
+    "w": 2160,
+    "h": 2160,
+    "color": "#dfbecb",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/fleur-fce9be.webp",
+     "thumb": "work/fleur-fce9be.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#fbfbfb",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-b1e446.webp",
+     "thumb": "work/fleur-b1e446.t.webp",
+     "w": 1921,
+     "h": 2400,
+     "color": "#fcf5f7",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-0d35eb.webp",
+     "thumb": "work/fleur-0d35eb.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#cd346b",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-81175b.webp",
+     "thumb": "work/fleur-81175b.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#030303",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-f252ba.webp",
+     "thumb": "work/fleur-f252ba.t.webp",
+     "w": 2400,
+     "h": 1624,
+     "color": "#e5e3e4",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-8fc3da.webp",
+     "thumb": "work/fleur-8fc3da.t.webp",
+     "w": 1808,
+     "h": 2400,
+     "color": "#493535",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-dd4aec.webp",
+     "thumb": "work/fleur-dd4aec.t.webp",
+     "w": 1400,
+     "h": 1400,
+     "color": "#d13d73",
+     "anim": true
+    },
+    {
+     "src": "work/fleur-420e91.webp",
+     "thumb": "work/fleur-420e91.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#fd9ccb",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-49dab6.webp",
+     "thumb": "work/fleur-49dab6.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#6a8ea9",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-8e83d8.webp",
+     "thumb": "work/fleur-8e83d8.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#0b0b0b",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-3e1031.webp",
+     "thumb": "work/fleur-3e1031.t.webp",
+     "w": 1820,
+     "h": 2400,
+     "color": "#fefefe",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-44b3f6.webp",
+     "thumb": "work/fleur-44b3f6.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#3e241a",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-be4ad5.webp",
+     "thumb": "work/fleur-be4ad5.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#1a0e0b",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-048a8e.webp",
+     "thumb": "work/fleur-048a8e.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#957065",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-535312.webp",
+     "thumb": "work/fleur-535312.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#5c3c3b",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-36025f.webp",
+     "thumb": "work/fleur-36025f.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#d13d74",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-9a429e.webp",
+     "thumb": "work/fleur-9a429e.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#590e13",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-74a070.webp",
+     "thumb": "work/fleur-74a070.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#a37473",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-216daf.webp",
+     "thumb": "work/fleur-216daf.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#c1b3aa",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-14d35a.webp",
+     "thumb": "work/fleur-14d35a.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#d4c8bb",
+     "anim": false
+    },
+    {
+     "src": "work/fleur-f25372.webp",
+     "thumb": "work/fleur-f25372.t.webp",
+     "w": 1120,
+     "h": 1400,
+     "color": "#a77081",
+     "anim": true
+    },
+    {
+     "src": "work/fleur-379c9c.webp",
+     "thumb": "work/fleur-379c9c.t.webp",
+     "w": 2400,
+     "h": 1441,
+     "color": "#ac94a3",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "devils-draught",
+   "title": "Devil's Draught",
+   "kind": "Brief Club brief",
+   "year": 2024,
+   "blurb": "A dark craft beer with two editions, Hell and Death by Ice. Wordmark, pattern, cans, bottles and packaging. Crafted in darkness, savored in shadows.",
+   "tags": [
+    "Logo",
+    "Packaging",
+    "Social"
+   ],
+   "cover": {
+    "src": "work/devil-s-draught-cover-9ca9c1.webp",
+    "thumb": "work/devil-s-draught-cover-9ca9c1.t.webp",
+    "w": 2160,
+    "h": 2160,
+    "color": "#401f21",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/devil-s-draught-62730f.webp",
+     "thumb": "work/devil-s-draught-62730f.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#fcefed",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-08ac3f.webp",
+     "thumb": "work/devil-s-draught-08ac3f.t.webp",
+     "w": 2400,
+     "h": 1600,
+     "color": "#080808",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-a303fb.webp",
+     "thumb": "work/devil-s-draught-a303fb.t.webp",
+     "w": 800,
+     "h": 800,
+     "color": "#fbecea",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-7c6acf.webp",
+     "thumb": "work/devil-s-draught-7c6acf.t.webp",
+     "w": 1920,
+     "h": 1080,
+     "color": "#3c2128",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-1ac7d9.webp",
+     "thumb": "work/devil-s-draught-1ac7d9.t.webp",
+     "w": 2400,
+     "h": 1800,
+     "color": "#332122",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-d719c0.webp",
+     "thumb": "work/devil-s-draught-d719c0.t.webp",
+     "w": 2400,
+     "h": 1800,
+     "color": "#111214",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-e05b78.webp",
+     "thumb": "work/devil-s-draught-e05b78.t.webp",
+     "w": 2400,
+     "h": 1600,
+     "color": "#2e2011",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-0a6eb8.webp",
+     "thumb": "work/devil-s-draught-0a6eb8.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#211918",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-ebbd64.webp",
+     "thumb": "work/devil-s-draught-ebbd64.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#150502",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-b13e25.webp",
+     "thumb": "work/devil-s-draught-b13e25.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#412221",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-bb10aa.webp",
+     "thumb": "work/devil-s-draught-bb10aa.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#dee6e7",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-2fdbf7.webp",
+     "thumb": "work/devil-s-draught-2fdbf7.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#4e5156",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-8e138b.webp",
+     "thumb": "work/devil-s-draught-8e138b.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#d2d4d3",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-48a395.webp",
+     "thumb": "work/devil-s-draught-48a395.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#a7b2b3",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-5ad92d.webp",
+     "thumb": "work/devil-s-draught-5ad92d.t.webp",
+     "w": 1799,
+     "h": 2400,
+     "color": "#93827d",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-adee3c.webp",
+     "thumb": "work/devil-s-draught-adee3c.t.webp",
+     "w": 1350,
+     "h": 2400,
+     "color": "#52494a",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-c47cad.webp",
+     "thumb": "work/devil-s-draught-c47cad.t.webp",
+     "w": 1350,
+     "h": 2400,
+     "color": "#878d8e",
+     "anim": false
+    },
+    {
+     "src": "work/devil-s-draught-891779.webp",
+     "thumb": "work/devil-s-draught-891779.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#e8dedd",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "chloe-mitchell",
+   "title": "Chloe Mitchell",
+   "kind": "Designer brief",
+   "year": 2024,
+   "blurb": "A personal brand for an author elevating women in business: script wordmark, CM monogram, stationery, and the launch of her book, The Undefeated Spirit.",
+   "tags": [
+    "Logo",
+    "Personal brand",
+    "Print"
+   ],
+   "cover": {
+    "src": "work/chloe-mitchell-cover-2f1964.webp",
+    "thumb": "work/chloe-mitchell-cover-2f1964.t.webp",
+    "w": 2160,
+    "h": 2160,
+    "color": "#e9d3aa",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/chloe-mitchell-a16c03.webp",
+     "thumb": "work/chloe-mitchell-a16c03.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#e8d2a9",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-86c352.webp",
+     "thumb": "work/chloe-mitchell-86c352.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#e8d3a9",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-5b1e34.webp",
+     "thumb": "work/chloe-mitchell-5b1e34.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#7b7779",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-8b900d.webp",
+     "thumb": "work/chloe-mitchell-8b900d.t.webp",
+     "w": 2400,
+     "h": 1800,
+     "color": "#aa9f8e",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-941f9f.webp",
+     "thumb": "work/chloe-mitchell-941f9f.t.webp",
+     "w": 1653,
+     "h": 2335,
+     "color": "#352123",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-cbf714.webp",
+     "thumb": "work/chloe-mitchell-cbf714.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#806959",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-6e4788.webp",
+     "thumb": "work/chloe-mitchell-6e4788.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#554239",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-d40771.webp",
+     "thumb": "work/chloe-mitchell-d40771.t.webp",
+     "w": 1004,
+     "h": 650,
+     "color": "#f7ece4",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-730cd8.webp",
+     "thumb": "work/chloe-mitchell-730cd8.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#c7ad94",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-e7417f.webp",
+     "thumb": "work/chloe-mitchell-e7417f.t.webp",
+     "w": 2400,
+     "h": 1800,
+     "color": "#a59b95",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-006ed3.webp",
+     "thumb": "work/chloe-mitchell-006ed3.t.webp",
+     "w": 1530,
+     "h": 2200,
+     "color": "#7d7770",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-677855.webp",
+     "thumb": "work/chloe-mitchell-677855.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#e7d7c4",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-64038d.webp",
+     "thumb": "work/chloe-mitchell-64038d.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#d5d0cb",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-57196d.webp",
+     "thumb": "work/chloe-mitchell-57196d.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#e8dad2",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-d5280c.webp",
+     "thumb": "work/chloe-mitchell-d5280c.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#e2bb9c",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-f40389.webp",
+     "thumb": "work/chloe-mitchell-f40389.t.webp",
+     "w": 2400,
+     "h": 1800,
+     "color": "#d2cfca",
+     "anim": false
+    },
+    {
+     "src": "work/chloe-mitchell-ed7ec2.webp",
+     "thumb": "work/chloe-mitchell-ed7ec2.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#b0a595",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "realm",
+   "title": "Realm",
+   "kind": "Self-initiated",
+   "year": 2024,
+   "blurb": "An identity for a headphone company: a quiet wordmark with a split-arch symbol, shown on product and campaign imagery.",
+   "tags": [
+    "Logo",
+    "Product",
+    "Campaign"
+   ],
+   "cover": {
+    "src": "work/realm-cover-487785.webp",
+    "thumb": "work/realm-cover-487785.t.webp",
+    "w": 1920,
+    "h": 2400,
+    "color": "#0a0b0c",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/realm-0f5560.webp",
+     "thumb": "work/realm-0f5560.t.webp",
+     "w": 2400,
+     "h": 1201,
+     "color": "#fefefe",
+     "anim": false
+    },
+    {
+     "src": "work/realm-86f719.webp",
+     "thumb": "work/realm-86f719.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#636e86",
+     "anim": false
+    },
+    {
+     "src": "work/realm-1cbe45.webp",
+     "thumb": "work/realm-1cbe45.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#71848a",
+     "anim": false
+    },
+    {
+     "src": "work/realm-ebcbbe.webp",
+     "thumb": "work/realm-ebcbbe.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#464646",
+     "anim": false
+    },
+    {
+     "src": "work/realm-6bd393.webp",
+     "thumb": "work/realm-6bd393.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#17181a",
+     "anim": false
+    },
+    {
+     "src": "work/realm-2929a0.webp",
+     "thumb": "work/realm-2929a0.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#636e86",
+     "anim": false
+    },
+    {
+     "src": "work/realm-40c7f7.webp",
+     "thumb": "work/realm-40c7f7.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#393939",
+     "anim": false
+    },
+    {
+     "src": "work/realm-75c60b.webp",
+     "thumb": "work/realm-75c60b.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#909090",
+     "anim": false
+    },
+    {
+     "src": "work/realm-d4403e.webp",
+     "thumb": "work/realm-d4403e.t.webp",
+     "w": 1920,
+     "h": 2400,
+     "color": "#5e5e5e",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "burger-streat",
+   "title": "Burger Streat",
+   "kind": "Pitch",
+   "year": 2024,
+   "blurb": "A smash-burger brand pitch: bold bun mark, warm orange palette, pattern and storefront. Juiciest and fattest smash burgers on the planet.",
+   "tags": [
+    "Logo",
+    "Visual identity",
+    "Signage"
+   ],
+   "cover": {
+    "src": "work/burger-streat-cover-b1a3b2.webp",
+    "thumb": "work/burger-streat-cover-b1a3b2.t.webp",
+    "w": 2400,
+    "h": 1800,
+    "color": "#645041",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/burger-streat-88037a.webp",
+     "thumb": "work/burger-streat-88037a.t.webp",
+     "w": 2400,
+     "h": 1723,
+     "color": "#fefbf8",
+     "anim": false
+    },
+    {
+     "src": "work/burger-streat-17606f.webp",
+     "thumb": "work/burger-streat-17606f.t.webp",
+     "w": 2400,
+     "h": 1723,
+     "color": "#2c2621",
+     "anim": false
+    },
+    {
+     "src": "work/burger-streat-947fe0.webp",
+     "thumb": "work/burger-streat-947fe0.t.webp",
+     "w": 2400,
+     "h": 1723,
+     "color": "#f5e8e2",
+     "anim": false
+    },
+    {
+     "src": "work/burger-streat-994a1a.webp",
+     "thumb": "work/burger-streat-994a1a.t.webp",
+     "w": 1806,
+     "h": 2400,
+     "color": "#fec1ac",
+     "anim": false
+    },
+    {
+     "src": "work/burger-streat-35fd69.webp",
+     "thumb": "work/burger-streat-35fd69.t.webp",
+     "w": 2400,
+     "h": 1723,
+     "color": "#f6f4f2",
+     "anim": false
+    },
+    {
+     "src": "work/burger-streat-22e3fb.webp",
+     "thumb": "work/burger-streat-22e3fb.t.webp",
+     "w": 2400,
+     "h": 1723,
+     "color": "#fdf8f4",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "alchemmy",
+   "title": "Alchemmy",
+   "kind": "House of EMM",
+   "year": 2024,
+   "blurb": "A studio for designing brands and creatives. A four-point star that turns into badges, boxes and a rendered dream.",
+   "tags": [
+    "Logo",
+    "Studio brand",
+    "Social"
+   ],
+   "cover": {
+    "src": "work/alchemmy-cover-5a8afe.webp",
+    "thumb": "work/alchemmy-cover-5a8afe.t.webp",
+    "w": 2160,
+    "h": 2160,
+    "color": "#444433",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/alchemmy-72b4ad.webp",
+     "thumb": "work/alchemmy-72b4ad.t.webp",
+     "w": 2400,
+     "h": 965,
+     "color": "#fdd4c8",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-6466b7.webp",
+     "thumb": "work/alchemmy-6466b7.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#e35427",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-e28a97.webp",
+     "thumb": "work/alchemmy-e28a97.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#2d2825",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-c3fd1b.webp",
+     "thumb": "work/alchemmy-c3fd1b.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#292931",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-ec5fce.webp",
+     "thumb": "work/alchemmy-ec5fce.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#1b1b1b",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-e49509.webp",
+     "thumb": "work/alchemmy-e49509.t.webp",
+     "w": 2000,
+     "h": 2000,
+     "color": "#2d2e1b",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-5706fa.webp",
+     "thumb": "work/alchemmy-5706fa.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#ff8863",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-608c0d.webp",
+     "thumb": "work/alchemmy-608c0d.t.webp",
+     "w": 2400,
+     "h": 2399,
+     "color": "#ff521d",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-c4b7df.webp",
+     "thumb": "work/alchemmy-c4b7df.t.webp",
+     "w": 2400,
+     "h": 676,
+     "color": "#ffbfab",
+     "anim": false
+    },
+    {
+     "src": "work/alchemmy-215732.webp",
+     "thumb": "work/alchemmy-215732.t.webp",
+     "w": 1400,
+     "h": 1400,
+     "color": "#3e3e2b",
+     "anim": true
+    }
+   ]
+  },
+  {
+   "slug": "x-rework",
+   "title": "X, reworked",
+   "kind": "Brand Rework, Episode 1",
+   "year": 2024,
+   "blurb": "A self-initiated rework of X: a sharper letterform, an X Plus tier, and motion studies.",
+   "tags": [
+    "Rebrand",
+    "Logo",
+    "Motion"
+   ],
+   "cover": {
+    "src": "work/x-reworked-cover-8cffd2.webp",
+    "thumb": "work/x-reworked-cover-8cffd2.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#090402",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/x-reworked-fa932d.webp",
+     "thumb": "work/x-reworked-fa932d.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#040404",
+     "anim": false
+    },
+    {
+     "src": "work/x-reworked-eb0bb1.webp",
+     "thumb": "work/x-reworked-eb0bb1.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#030303",
+     "anim": false
+    },
+    {
+     "src": "work/x-reworked-a086fa.webp",
+     "thumb": "work/x-reworked-a086fa.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#040404",
+     "anim": false
+    },
+    {
+     "src": "work/x-reworked-c7ac2f.webp",
+     "thumb": "work/x-reworked-c7ac2f.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#080807",
+     "anim": false
+    },
+    {
+     "src": "work/x-reworked-5b1ed7.webp",
+     "thumb": "work/x-reworked-5b1ed7.t.webp",
+     "w": 1400,
+     "h": 1400,
+     "color": "#040404",
+     "anim": true
+    },
+    {
+     "src": "work/x-reworked-400d0e.webp",
+     "thumb": "work/x-reworked-400d0e.t.webp",
+     "w": 1080,
+     "h": 1080,
+     "color": "#0a0503",
+     "anim": false
+    },
+    {
+     "src": "work/x-reworked-9ff5c6.webp",
+     "thumb": "work/x-reworked-9ff5c6.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#050505",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "noxrmen",
+   "title": "Noxrmen",
+   "kind": "Self-initiated",
+   "year": 2024,
+   "blurb": "A wordmark with a cut-out M frame, taken onto a poster, billboard and storefront.",
+   "tags": [
+    "Logo",
+    "Campaign"
+   ],
+   "cover": {
+    "src": "work/noxrmen-cover-0edfeb.webp",
+    "thumb": "work/noxrmen-cover-0edfeb.t.webp",
+    "w": 2160,
+    "h": 1720,
+    "color": "#323232",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/noxrmen-1748ec.webp",
+     "thumb": "work/noxrmen-1748ec.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#e8e8e8",
+     "anim": false
+    },
+    {
+     "src": "work/noxrmen-80efca.webp",
+     "thumb": "work/noxrmen-80efca.t.webp",
+     "w": 2400,
+     "h": 1800,
+     "color": "#5e5f55",
+     "anim": false
+    },
+    {
+     "src": "work/noxrmen-f22990.webp",
+     "thumb": "work/noxrmen-f22990.t.webp",
+     "w": 2400,
+     "h": 1600,
+     "color": "#171717",
+     "anim": false
+    },
+    {
+     "src": "work/noxrmen-229f30.webp",
+     "thumb": "work/noxrmen-229f30.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#adadad",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "lexis-little-travellers",
+   "title": "Lexi's Little Travellers",
+   "kind": "Client",
+   "year": 2023,
+   "blurb": "A travel brand with a V-shaped mark that doubles as a bird in flight, shown across logo and promo imagery.",
+   "tags": [
+    "Logo",
+    "Social"
+   ],
+   "cover": {
+    "src": "work/lexi-s-little-travellers-cover-33520a.webp",
+    "thumb": "work/lexi-s-little-travellers-cover-33520a.t.webp",
+    "w": 1602,
+    "h": 2400,
+    "color": "#a29c93",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/lexi-s-little-travellers-1d414c.webp",
+     "thumb": "work/lexi-s-little-travellers-1d414c.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#f9faf9",
+     "anim": false
+    },
+    {
+     "src": "work/lexi-s-little-travellers-9ed394.webp",
+     "thumb": "work/lexi-s-little-travellers-9ed394.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#fbfbfb",
+     "anim": false
+    },
+    {
+     "src": "work/lexi-s-little-travellers-294f06.webp",
+     "thumb": "work/lexi-s-little-travellers-294f06.t.webp",
+     "w": 1600,
+     "h": 2400,
+     "color": "#6e899b",
+     "anim": false
+    },
+    {
+     "src": "work/lexi-s-little-travellers-d629da.webp",
+     "thumb": "work/lexi-s-little-travellers-d629da.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#b9c9d6",
+     "anim": false
+    },
+    {
+     "src": "work/lexi-s-little-travellers-d1d0b4.webp",
+     "thumb": "work/lexi-s-little-travellers-d1d0b4.t.webp",
+     "w": 1697,
+     "h": 2400,
+     "color": "#877264",
+     "anim": false
+    },
+    {
+     "src": "work/lexi-s-little-travellers-fadd1b.webp",
+     "thumb": "work/lexi-s-little-travellers-fadd1b.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#726b5c",
+     "anim": false
+    },
+    {
+     "src": "work/lexi-s-little-travellers-d898e5.webp",
+     "thumb": "work/lexi-s-little-travellers-d898e5.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#fefefe",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "supvrnode",
+   "title": "Supvrnode",
+   "kind": "Self-initiated",
+   "year": 2025,
+   "blurb": "A node-shaped monogram in electric blue, with its star, profile and wallpaper system.",
+   "tags": [
+    "Logo",
+    "Visual identity"
+   ],
+   "cover": {
+    "src": "work/supvrnode-cover-f12ea7.webp",
+    "thumb": "work/supvrnode-cover-f12ea7.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#8aacfe",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/supvrnode-e1454b.webp",
+     "thumb": "work/supvrnode-e1454b.t.webp",
+     "w": 2400,
+     "h": 1211,
+     "color": "#084fff",
+     "anim": false
+    },
+    {
+     "src": "work/supvrnode-46fd18.webp",
+     "thumb": "work/supvrnode-46fd18.t.webp",
+     "w": 2400,
+     "h": 1211,
+     "color": "#024aff",
+     "anim": false
+    },
+    {
+     "src": "work/supvrnode-3a6166.webp",
+     "thumb": "work/supvrnode-3a6166.t.webp",
+     "w": 2400,
+     "h": 2400,
+     "color": "#eaf0ff",
+     "anim": false
+    },
+    {
+     "src": "work/supvrnode-498384.webp",
+     "thumb": "work/supvrnode-498384.t.webp",
+     "w": 2400,
+     "h": 1211,
+     "color": "#074eff",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "xaed",
+   "title": "Xaed",
+   "kind": "Client",
+   "year": 2023,
+   "blurb": "A folded-ribbon X for Xaed Studio, in black, white and signal red.",
+   "tags": [
+    "Logo",
+    "Social"
+   ],
+   "cover": {
+    "src": "work/xaed-cover-71a041.webp",
+    "thumb": "work/xaed-cover-71a041.t.webp",
+    "w": 823,
+    "h": 768,
+    "color": "#ad9393",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/xaed-c7aa08.webp",
+     "thumb": "work/xaed-c7aa08.t.webp",
+     "w": 2346,
+     "h": 768,
+     "color": "#e3cccc",
+     "anim": false
+    },
+    {
+     "src": "work/xaed-ae26aa.webp",
+     "thumb": "work/xaed-ae26aa.t.webp",
+     "w": 823,
+     "h": 768,
+     "color": "#e8d6d6",
+     "anim": false
+    },
+    {
+     "src": "work/xaed-a27e0d.webp",
+     "thumb": "work/xaed-a27e0d.t.webp",
+     "w": 1437,
+     "h": 2400,
+     "color": "#1d1d1d",
+     "anim": false
+    },
+    {
+     "src": "work/xaed-177d0e.webp",
+     "thumb": "work/xaed-177d0e.t.webp",
+     "w": 1437,
+     "h": 2400,
+     "color": "#1d0000",
+     "anim": false
+    },
+    {
+     "src": "work/xaed-4aa2d2.webp",
+     "thumb": "work/xaed-4aa2d2.t.webp",
+     "w": 823,
+     "h": 768,
+     "color": "#eaeaea",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "chatkaara",
+   "title": "Chatkaara",
+   "kind": "Self-initiated",
+   "year": 2024,
+   "blurb": "A playful wordmark and snack-pattern for a street food brand.",
+   "tags": [
+    "Logo",
+    "Packaging"
+   ],
+   "cover": {
+    "src": "work/chatkaara-cover-380107.webp",
+    "thumb": "work/chatkaara-cover-380107.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#061c02",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/chatkaara-c9e19d.webp",
+     "thumb": "work/chatkaara-c9e19d.t.webp",
+     "w": 1400,
+     "h": 1843,
+     "color": "#f9e8bb",
+     "anim": false
+    },
+    {
+     "src": "work/chatkaara-003215.webp",
+     "thumb": "work/chatkaara-003215.t.webp",
+     "w": 2400,
+     "h": 1800,
+     "color": "#c2c156",
+     "anim": false
+    },
+    {
+     "src": "work/chatkaara-f1ac6c.webp",
+     "thumb": "work/chatkaara-f1ac6c.t.webp",
+     "w": 1400,
+     "h": 1843,
+     "color": "#fdfbf4",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "kshitij",
+   "title": "Kshitij",
+   "kind": "Client · YouTuber",
+   "year": 2023,
+   "blurb": "A bold K monogram and channel identity for a YouTube creator.",
+   "tags": [
+    "Logo",
+    "YouTube"
+   ],
+   "cover": {
+    "src": "work/kshitij-cover-731fca.webp",
+    "thumb": "work/kshitij-cover-731fca.t.webp",
+    "w": 1080,
+    "h": 1080,
+    "color": "#1d211d",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/kshitij-454474.webp",
+     "thumb": "work/kshitij-454474.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#020703",
+     "anim": false
+    },
+    {
+     "src": "work/kshitij-1860ef.webp",
+     "thumb": "work/kshitij-1860ef.t.webp",
+     "w": 1876,
+     "h": 1200,
+     "color": "#21291f",
+     "anim": false
+    },
+    {
+     "src": "work/kshitij-3dfb91.webp",
+     "thumb": "work/kshitij-3dfb91.t.webp",
+     "w": 1080,
+     "h": 1080,
+     "color": "#d9ddda",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "perkstra",
+   "title": "Perkstra",
+   "kind": "Client",
+   "year": 2023,
+   "blurb": "A rewards brand with a star-burst mark, in four colourways.",
+   "tags": [
+    "Logo"
+   ],
+   "cover": {
+    "src": "work/perkstra-cover-7ca2a1.webp",
+    "thumb": "work/perkstra-cover-7ca2a1.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#f7e7d4",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/perkstra-2c0320.webp",
+     "thumb": "work/perkstra-2c0320.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#fdfdfd",
+     "anim": false
+    },
+    {
+     "src": "work/perkstra-f04c55.webp",
+     "thumb": "work/perkstra-f04c55.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#020101",
+     "anim": false
+    },
+    {
+     "src": "work/perkstra-9353b8.webp",
+     "thumb": "work/perkstra-9353b8.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#f39d2c",
+     "anim": false
+    },
+    {
+     "src": "work/perkstra-83ab48.webp",
+     "thumb": "work/perkstra-83ab48.t.webp",
+     "w": 2400,
+     "h": 1350,
+     "color": "#454ba0",
+     "anim": false
+    }
+   ]
+  },
+  {
+   "slug": "emmency",
+   "title": "Emmency",
+   "kind": "My studio",
+   "year": 2024,
+   "blurb": "The house all of this comes from. Made by EMM.",
+   "tags": [
+    "Logo",
+    "Studio brand"
+   ],
+   "cover": {
+    "src": "work/emmency-cover-b08426.webp",
+    "thumb": "work/emmency-cover-b08426.t.webp",
+    "w": 2160,
+    "h": 2160,
+    "color": "#212121",
+    "anim": false
+   },
+   "items": [
+    {
+     "src": "work/emmency-6ed42c.webp",
+     "thumb": "work/emmency-6ed42c.t.webp",
+     "w": 2400,
+     "h": 800,
+     "color": "#ff5824",
+     "anim": false
+    },
+    {
+     "src": "work/emmency-c0b572.webp",
+     "thumb": "work/emmency-c0b572.t.webp",
+     "w": 2400,
+     "h": 1200,
+     "color": "#808080",
+     "anim": false
+    },
+    {
+     "src": "work/emmency-3701f3.webp",
+     "thumb": "work/emmency-3701f3.t.webp",
+     "w": 2399,
+     "h": 2400,
+     "color": "#030303",
+     "anim": false
+    },
+    {
+     "src": "work/emmency-2c2e84.webp",
+     "thumb": "work/emmency-2c2e84.t.webp",
+     "w": 2160,
+     "h": 2160,
+     "color": "#4405aa",
+     "anim": false
+    }
+   ]
+  }
+ ],
+ "logos": [
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-1-dark-3d1286.webp",
+    "thumb": "work/logo-1-dark-3d1286.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#272726",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-1-5728e4.webp",
+    "thumb": "work/logo-1-5728e4.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff511b",
+    "anim": false
+   },
+   "n": 1
+  },
+  {
+   "name": "Fleur",
+   "img": {
+    "src": "work/logo-2-dark-8a1e41.webp",
+    "thumb": "work/logo-2-dark-8a1e41.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#232322",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-2-01708b.webp",
+    "thumb": "work/logo-2-01708b.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4d17",
+    "anim": false
+   },
+   "n": 2
+  },
+  {
+   "name": "Doorway",
+   "img": {
+    "src": "work/logo-3-dark-1e2e43.webp",
+    "thumb": "work/logo-3-dark-1e2e43.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#222221",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-3-4401a0.webp",
+    "thumb": "work/logo-3-4401a0.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4d16",
+    "anim": false
+   },
+   "n": 3
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-4-dark-d423e6.webp",
+    "thumb": "work/logo-4-dark-d423e6.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#212120",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-4-2a04cf.webp",
+    "thumb": "work/logo-4-2a04cf.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4c15",
+    "anim": false
+   },
+   "n": 4
+  },
+  {
+   "name": "Realm",
+   "img": {
+    "src": "work/logo-5-dark-8571d1.webp",
+    "thumb": "work/logo-5-dark-8571d1.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#1e1e1e",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-5-b68ea8.webp",
+    "thumb": "work/logo-5-b68ea8.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4a12",
+    "anim": false
+   },
+   "n": 5
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-6-dark-2880e3.webp",
+    "thumb": "work/logo-6-dark-2880e3.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#232322",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-6-793827.webp",
+    "thumb": "work/logo-6-793827.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4e17",
+    "anim": false
+   },
+   "n": 6
+  },
+  {
+   "name": "Burger Streat",
+   "img": {
+    "src": "work/logo-7-dark-4b0bd1.webp",
+    "thumb": "work/logo-7-dark-4b0bd1.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#262625",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-7-de11f8.webp",
+    "thumb": "work/logo-7-de11f8.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff501a",
+    "anim": false
+   },
+   "n": 7
+  },
+  {
+   "name": "Devil's Draught",
+   "img": {
+    "src": "work/logo-8-dark-cd98a9.webp",
+    "thumb": "work/logo-8-dark-cd98a9.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#2d2d2c",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-8-8da2f9.webp",
+    "thumb": "work/logo-8-8da2f9.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff5521",
+    "anim": false
+   },
+   "n": 8
+  },
+  {
+   "name": "Chloe Mitchell",
+   "img": {
+    "src": "work/logo-9-dark-979545.webp",
+    "thumb": "work/logo-9-dark-979545.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#252524",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-9-ac99cc.webp",
+    "thumb": "work/logo-9-ac99cc.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4f19",
+    "anim": false
+   },
+   "n": 9
+  },
+  {
+   "name": "Awecraft",
+   "img": {
+    "src": "work/logo-10-dark-fbd196.webp",
+    "thumb": "work/logo-10-dark-fbd196.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#1f1f1f",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-10-6097ac.webp",
+    "thumb": "work/logo-10-6097ac.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4b13",
+    "anim": false
+   },
+   "n": 10
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-11-dark-34f219.webp",
+    "thumb": "work/logo-11-dark-34f219.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#202020",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-11-02bf78.webp",
+    "thumb": "work/logo-11-02bf78.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4b14",
+    "anim": false
+   },
+   "n": 11
+  },
+  {
+   "name": "Unity",
+   "img": {
+    "src": "work/logo-12-dark-241a02.webp",
+    "thumb": "work/logo-12-dark-241a02.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#222221",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-12-9299cc.webp",
+    "thumb": "work/logo-12-9299cc.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4d16",
+    "anim": false
+   },
+   "n": 12
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-13-dark-b26d49.webp",
+    "thumb": "work/logo-13-dark-b26d49.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#262626",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-13-b4a95f.webp",
+    "thumb": "work/logo-13-b4a95f.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff501b",
+    "anim": false
+   },
+   "n": 13
+  },
+  {
+   "name": "Noxrmen",
+   "img": {
+    "src": "work/logo-14-dark-dc03bc.webp",
+    "thumb": "work/logo-14-dark-dc03bc.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#212020",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-14-2ff9de.webp",
+    "thumb": "work/logo-14-2ff9de.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4c15",
+    "anim": false
+   },
+   "n": 14
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-15-dark-a899d2.webp",
+    "thumb": "work/logo-15-dark-a899d2.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#232322",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-15-49772b.webp",
+    "thumb": "work/logo-15-49772b.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4d17",
+    "anim": false
+   },
+   "n": 15
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-16-dark-e96af1.webp",
+    "thumb": "work/logo-16-dark-e96af1.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#252424",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-16-761374.webp",
+    "thumb": "work/logo-16-761374.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4f18",
+    "anim": false
+   },
+   "n": 16
+  },
+  {
+   "name": "Chatkaara",
+   "img": {
+    "src": "work/logo-17-dark-a2be53.webp",
+    "thumb": "work/logo-17-dark-a2be53.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#202020",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-17-858b9e.webp",
+    "thumb": "work/logo-17-858b9e.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4b14",
+    "anim": false
+   },
+   "n": 17
+  },
+  {
+   "name": "Only Bakes",
+   "img": {
+    "src": "work/logo-18-dark-630c85.webp",
+    "thumb": "work/logo-18-dark-630c85.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#232323",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-18-a04eed.webp",
+    "thumb": "work/logo-18-a04eed.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4e17",
+    "anim": false
+   },
+   "n": 18
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-19-dark-9784a2.webp",
+    "thumb": "work/logo-19-dark-9784a2.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#242423",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-19-e9d851.webp",
+    "thumb": "work/logo-19-e9d851.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4e18",
+    "anim": false
+   },
+   "n": 19
+  },
+  {
+   "name": "Glitch",
+   "img": {
+    "src": "work/logo-20-dark-9f6c9b.webp",
+    "thumb": "work/logo-20-dark-9f6c9b.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#222121",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-20-775977.webp",
+    "thumb": "work/logo-20-775977.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4c15",
+    "anim": false
+   },
+   "n": 20
+  },
+  {
+   "name": "",
+   "img": {
+    "src": "work/logo-21-dark-33a267.webp",
+    "thumb": "work/logo-21-dark-33a267.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#1f1f1f",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-21-aad09f.webp",
+    "thumb": "work/logo-21-aad09f.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4a13",
+    "anim": false
+   },
+   "n": 21
+  },
+  {
+   "name": "Lexi's Little Travellers",
+   "img": {
+    "src": "work/logo-22-dark-655605.webp",
+    "thumb": "work/logo-22-dark-655605.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#202020",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-22-ec9f1e.webp",
+    "thumb": "work/logo-22-ec9f1e.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4b14",
+    "anim": false
+   },
+   "n": 22
+  },
+  {
+   "name": "Emmency",
+   "img": {
+    "src": "work/logo-23-dark-840672.webp",
+    "thumb": "work/logo-23-dark-840672.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#1f1f1f",
+    "anim": false
+   },
+   "alt": {
+    "src": "work/logo-23-a5db75.webp",
+    "thumb": "work/logo-23-a5db75.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#ff4a13",
+    "anim": false
+   },
+   "n": 23
+  }
+ ],
+ "marks": [
+  {
+   "name": "Xaed",
+   "img": {
+    "src": "work/xaed-291a08.webp",
+    "thumb": "work/xaed-291a08.t.webp",
+    "w": 2394,
+    "h": 1746,
+    "color": "#f7f7f7",
+    "anim": false
+   }
+  },
+  {
+   "name": "Kshitij",
+   "img": {
+    "src": "work/kshitij-cover-731fca.webp",
+    "thumb": "work/kshitij-cover-731fca.t.webp",
+    "w": 1080,
+    "h": 1080,
+    "color": "#1d211d",
+    "anim": false
+   }
+  },
+  {
+   "name": "Lexi's Little Travellers",
+   "img": {
+    "src": "work/lexi-s-little-travellers-1d414c.webp",
+    "thumb": "work/lexi-s-little-travellers-1d414c.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#f9faf9",
+    "anim": false
+   }
+  },
+  {
+   "name": "Perkstra",
+   "img": {
+    "src": "work/perkstra-f04c55.webp",
+    "thumb": "work/perkstra-f04c55.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#020101",
+    "anim": false
+   }
+  },
+  {
+   "name": "Raw & Real",
+   "img": {
+    "src": "work/raw-real-2f7918.webp",
+    "thumb": "work/raw-real-2f7918.t.webp",
+    "w": 1667,
+    "h": 1668,
+    "color": "#e6e5e5",
+    "anim": false
+   }
+  },
+  {
+   "name": "Madad Initiative",
+   "img": {
+    "src": "work/madad-initiative-7a76bb.webp",
+    "thumb": "work/madad-initiative-7a76bb.t.webp",
+    "w": 1080,
+    "h": 1080,
+    "color": "#e5c675",
+    "anim": false
+   }
+  },
+  {
+   "name": "Oribella Enterprises",
+   "img": {
+    "src": "work/oribella-enterprises-db7ef4.webp",
+    "thumb": "work/oribella-enterprises-db7ef4.t.webp",
+    "w": 1080,
+    "h": 1080,
+    "color": "#181818",
+    "anim": false
+   }
+  },
+  {
+   "name": "Supvrnode",
+   "img": {
+    "src": "work/supvrnode-3a6166.webp",
+    "thumb": "work/supvrnode-3a6166.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#eaf0ff",
+    "anim": false
+   }
+  },
+  {
+   "name": "Fremm",
+   "img": {
+    "src": "work/fremm-35803f.webp",
+    "thumb": "work/fremm-35803f.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#090909",
+    "anim": false
+   }
+  },
+  {
+   "name": "Wirefremm",
+   "img": {
+    "src": "work/wirefremm-bcc888.webp",
+    "thumb": "work/wirefremm-bcc888.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#040404",
+    "anim": false
+   }
+  },
+  {
+   "name": "Emmency",
+   "img": {
+    "src": "work/emmency-3701f3.webp",
+    "thumb": "work/emmency-3701f3.t.webp",
+    "w": 2399,
+    "h": 2400,
+    "color": "#030303",
+    "anim": false
+   }
+  },
+  {
+   "name": "Supwremm",
+   "img": {
+    "src": "work/supwremm-3d5cf9.webp",
+    "thumb": "work/supwremm-3d5cf9.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#170909",
+    "anim": false
+   }
+  },
+  {
+   "name": "Recemmend",
+   "img": {
+    "src": "work/recemmend-bbc12f.webp",
+    "thumb": "work/recemmend-bbc12f.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#fdfdfd",
+    "anim": false
+   }
+  },
+  {
+   "name": "Alchemmy",
+   "img": {
+    "src": "work/alchemmy-b01ee1.webp",
+    "thumb": "work/alchemmy-b01ee1.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#0a0a0a",
+    "anim": false
+   }
+  }
+ ],
+ "posters": [
+  {
+   "title": "Stark in a Cave",
+   "year": 2024,
+   "img": {
+    "src": "work/stark-in-a-cave-1457b3.webp",
+    "thumb": "work/stark-in-a-cave-1457b3.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#292828",
+    "anim": false
+   }
+  },
+  {
+   "title": "Take Me to Church",
+   "year": 2024,
+   "img": {
+    "src": "work/take-me-to-church-ac1ecd.webp",
+    "thumb": "work/take-me-to-church-ac1ecd.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#3b1414",
+    "anim": false
+   }
+  },
+  {
+   "title": "Shubh Deepawali",
+   "year": 2024,
+   "img": {
+    "src": "work/shubh-deepawali-72ed02.webp",
+    "thumb": "work/shubh-deepawali-72ed02.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#3c2f21",
+    "anim": false
+   }
+  },
+  {
+   "title": "Oppenheimer",
+   "year": 2024,
+   "img": {
+    "src": "work/oppenheimer-eaaca7.webp",
+    "thumb": "work/oppenheimer-eaaca7.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#201d0b",
+    "anim": false
+   }
+  },
+  {
+   "title": "Se7en",
+   "year": 2024,
+   "img": {
+    "src": "work/se7en-6871e9.webp",
+    "thumb": "work/se7en-6871e9.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#9f925b",
+    "anim": false
+   }
+  },
+  {
+   "title": "The Shawshank Redemption",
+   "year": 2024,
+   "img": {
+    "src": "work/the-shawshank-redemption-f5d528.webp",
+    "thumb": "work/the-shawshank-redemption-f5d528.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#3e426b",
+    "anim": false
+   }
+  },
+  {
+   "title": "Ghost Rider",
+   "year": 2024,
+   "img": {
+    "src": "work/ghost-rider-39f671.webp",
+    "thumb": "work/ghost-rider-39f671.t.webp",
+    "w": 1350,
+    "h": 2400,
+    "color": "#a1846c",
+    "anim": false
+   }
+  },
+  {
+   "title": "2025",
+   "year": 2025,
+   "img": {
+    "src": "work/2025-3f4542.webp",
+    "thumb": "work/2025-3f4542.t.webp",
+    "w": 1350,
+    "h": 2400,
+    "color": "#0d221e",
+    "anim": false
+   }
+  },
+  {
+   "title": "Logan",
+   "year": 2024,
+   "img": {
+    "src": "work/logan-f7e5f4.webp",
+    "thumb": "work/logan-f7e5f4.t.webp",
+    "w": 1598,
+    "h": 2400,
+    "color": "#695252",
+    "anim": false
+   }
+  },
+  {
+   "title": "Keep Your Roses",
+   "year": 2024,
+   "img": {
+    "src": "work/keep-your-roses-41ad2e.webp",
+    "thumb": "work/keep-your-roses-41ad2e.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#401519",
+    "anim": false
+   }
+  },
+  {
+   "title": "Prometheus",
+   "year": 2024,
+   "img": {
+    "src": "work/prometheus-3687d4.webp",
+    "thumb": "work/prometheus-3687d4.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#2c120e",
+    "anim": false
+   }
+  },
+  {
+   "title": "You Have It in You",
+   "year": 2024,
+   "img": {
+    "src": "work/you-have-it-in-you-c45791.webp",
+    "thumb": "work/you-have-it-in-you-c45791.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#d9dbd1",
+    "anim": false
+   }
+  },
+  {
+   "title": "None of It Makes Sense",
+   "year": 2024,
+   "img": {
+    "src": "work/none-of-it-makes-sense-05e274.webp",
+    "thumb": "work/none-of-it-makes-sense-05e274.t.webp",
+    "w": 2304,
+    "h": 2400,
+    "color": "#260505",
+    "anim": false
+   }
+  },
+  {
+   "title": "Serpent",
+   "year": 2024,
+   "img": {
+    "src": "work/serpent-cbf04a.webp",
+    "thumb": "work/serpent-cbf04a.t.webp",
+    "w": 807,
+    "h": 984,
+    "color": "#0d0d06",
+    "anim": false
+   }
+  },
+  {
+   "title": "The Void",
+   "year": 2024,
+   "img": {
+    "src": "work/the-void-d19f6f.webp",
+    "thumb": "work/the-void-d19f6f.t.webp",
+    "w": 1697,
+    "h": 2400,
+    "color": "#492f23",
+    "anim": false
+   }
+  },
+  {
+   "title": "Brand New Day",
+   "year": 2026,
+   "img": {
+    "src": "work/brand-new-day-af9542.webp",
+    "thumb": "work/brand-new-day-af9542.t.webp",
+    "w": 1800,
+    "h": 2400,
+    "color": "#e2dede",
+    "anim": false
+   }
+  },
+  {
+   "title": "Inevident",
+   "year": 2026,
+   "img": {
+    "src": "work/inevident-3a7a91.webp",
+    "thumb": "work/inevident-3a7a91.t.webp",
+    "w": 1611,
+    "h": 2400,
+    "color": "#1f1213",
+    "anim": false
+   }
+  },
+  {
+   "title": "Human After All",
+   "year": 2024,
+   "img": {
+    "src": "work/human-after-all-6d534a.webp",
+    "thumb": "work/human-after-all-6d534a.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#121215",
+    "anim": false
+   }
+  },
+  {
+   "title": "Heal",
+   "year": 2024,
+   "img": {
+    "src": "work/heal-daf7a9.webp",
+    "thumb": "work/heal-daf7a9.t.webp",
+    "w": 1747,
+    "h": 2400,
+    "color": "#101023",
+    "anim": false
+   }
+  },
+  {
+   "title": "Fragile Yet Fierce",
+   "year": 2024,
+   "img": {
+    "src": "work/fragile-yet-fierce-316ae6.webp",
+    "thumb": "work/fragile-yet-fierce-316ae6.t.webp",
+    "w": 1080,
+    "h": 1920,
+    "color": "#353235",
+    "anim": false
+   }
+  },
+  {
+   "title": "The Shawshank Redemption, red",
+   "year": 2025,
+   "img": {
+    "src": "work/the-shawshank-redemption-red-2ff7af.webp",
+    "thumb": "work/the-shawshank-redemption-red-2ff7af.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#dc8c8d",
+    "anim": false
+   }
+  },
+  {
+   "title": "The Guilty",
+   "year": 2025,
+   "img": {
+    "src": "work/the-guilty-2b126d.webp",
+    "thumb": "work/the-guilty-2b126d.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#160815",
+    "anim": false
+   }
+  },
+  {
+   "title": "The Cursed Lady",
+   "year": 2025,
+   "img": {
+    "src": "work/the-cursed-lady-98b3fc.webp",
+    "thumb": "work/the-cursed-lady-98b3fc.t.webp",
+    "w": 832,
+    "h": 1248,
+    "color": "#53181e",
+    "anim": false
+   }
+  },
+  {
+   "title": "Matrix Jailbreak",
+   "year": 2024,
+   "img": {
+    "src": "work/matrix-jailbreak-ce904e.webp",
+    "thumb": "work/matrix-jailbreak-ce904e.t.webp",
+    "w": 1200,
+    "h": 1800,
+    "color": "#2e503e",
+    "anim": false
+   }
+  },
+  {
+   "title": "I Know a Place",
+   "year": 2024,
+   "img": {
+    "src": "work/i-know-a-place-cf12b8.webp",
+    "thumb": "work/i-know-a-place-cf12b8.t.webp",
+    "w": 1350,
+    "h": 2400,
+    "color": "#39394f",
+    "anim": false
+   }
+  },
+  {
+   "title": "Monday Breeze",
+   "year": 2023,
+   "img": {
+    "src": "work/monday-breeze-957fc6.webp",
+    "thumb": "work/monday-breeze-957fc6.t.webp",
+    "w": 1200,
+    "h": 1800,
+    "color": "#1d1519",
+    "anim": false
+   }
+  },
+  {
+   "title": "Rockstar",
+   "year": 2024,
+   "img": {
+    "src": "work/rockstar-e84f15.webp",
+    "thumb": "work/rockstar-e84f15.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#020202",
+    "anim": false
+   }
+  },
+  {
+   "title": "Painted Black Sky",
+   "year": 2024,
+   "img": {
+    "src": "work/painted-black-sky-fa8a79.webp",
+    "thumb": "work/painted-black-sky-fa8a79.t.webp",
+    "w": 2024,
+    "h": 2400,
+    "color": "#041424",
+    "anim": false
+   }
+  },
+  {
+   "title": "Untitled 23",
+   "year": 2024,
+   "img": {
+    "src": "work/untitled-23-ad862e.webp",
+    "thumb": "work/untitled-23-ad862e.t.webp",
+    "w": 1200,
+    "h": 1800,
+    "color": "#211954",
+    "anim": false
+   }
+  },
+  {
+   "title": "EMM Post 02",
+   "year": 2024,
+   "img": {
+    "src": "work/emm-post-02-4b1cd7.webp",
+    "thumb": "work/emm-post-02-4b1cd7.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#070709",
+    "anim": false
+   }
+  },
+  {
+   "title": "Prometheus, black and white",
+   "year": 2024,
+   "img": {
+    "src": "work/prometheus-black-and-white-b25de5.webp",
+    "thumb": "work/prometheus-black-and-white-b25de5.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#393939",
+    "anim": false
+   }
+  },
+  {
+   "title": "Deadpool & Wolverine",
+   "year": 2024,
+   "img": {
+    "src": "work/deadpool-wolverine-99e310.webp",
+    "thumb": "work/deadpool-wolverine-99e310.t.webp",
+    "w": 1800,
+    "h": 2400,
+    "color": "#862438",
+    "anim": false
+   }
+  },
+  {
+   "title": "Dhurandhar",
+   "year": 2025,
+   "img": {
+    "src": "work/dhurandhar-b6c58f.webp",
+    "thumb": "work/dhurandhar-b6c58f.t.webp",
+    "w": 1920,
+    "h": 2400,
+    "color": "#666151",
+    "anim": false
+   }
+  },
+  {
+   "title": "I Can Do This All Day",
+   "year": 2024,
+   "img": {
+    "src": "work/i-can-do-this-all-day-278f72.webp",
+    "thumb": "work/i-can-do-this-all-day-278f72.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#859498",
+    "anim": false
+   }
+  },
+  {
+   "title": "Kaira",
+   "year": 2024,
+   "img": {
+    "src": "work/kaira-059f60.webp",
+    "thumb": "work/kaira-059f60.t.webp",
+    "w": 1601,
+    "h": 2400,
+    "color": "#9e8321",
+    "anim": false
+   }
+  },
+  {
+   "title": "The Inevitable",
+   "year": 2024,
+   "img": {
+    "src": "work/the-inevitable-2d8eb4.webp",
+    "thumb": "work/the-inevitable-2d8eb4.t.webp",
+    "w": 2250,
+    "h": 2250,
+    "color": "#71281f",
+    "anim": false
+   }
+  },
+  {
+   "title": "Metamorphed",
+   "year": 2024,
+   "img": {
+    "src": "work/metamorphed-c66669.webp",
+    "thumb": "work/metamorphed-c66669.t.webp",
+    "w": 1920,
+    "h": 2400,
+    "color": "#0c323f",
+    "anim": false
+   }
+  },
+  {
+   "title": "Black Samurai",
+   "year": 2024,
+   "img": {
+    "src": "work/black-samurai-1b87e9.webp",
+    "thumb": "work/black-samurai-1b87e9.t.webp",
+    "w": 2366,
+    "h": 2236,
+    "color": "#b1b3b0",
+    "anim": false
+   }
+  },
+  {
+   "title": "Mumbai Gullies",
+   "year": 2024,
+   "img": {
+    "src": "work/mumbai-gullies-bc4e9a.webp",
+    "thumb": "work/mumbai-gullies-bc4e9a.t.webp",
+    "w": 1800,
+    "h": 2400,
+    "color": "#4b3d1c",
+    "anim": false
+   }
+  },
+  {
+   "title": "Nirvana",
+   "year": 2024,
+   "img": {
+    "src": "work/nirvana-5a7885.webp",
+    "thumb": "work/nirvana-5a7885.t.webp",
+    "w": 950,
+    "h": 1635,
+    "color": "#abbabf",
+    "anim": false
+   }
+  },
+  {
+   "title": "The Bear",
+   "year": 2024,
+   "img": {
+    "src": "work/the-bear-8e43ae.webp",
+    "thumb": "work/the-bear-8e43ae.t.webp",
+    "w": 1714,
+    "h": 2400,
+    "color": "#577167",
+    "anim": false
+   }
+  }
+ ],
+ "graphics": [
+  {
+   "title": "Quicky Super-Shots: N-Joy",
+   "year": 2023,
+   "client": "D9 Supershots",
+   "img": {
+    "src": "work/quicky-super-shots-n-joy-8727be.webp",
+    "thumb": "work/quicky-super-shots-n-joy-8727be.t.webp",
+    "w": 2123,
+    "h": 2160,
+    "color": "#6b93ab",
+    "anim": false
+   }
+  },
+  {
+   "title": "Quicky Super-Shots: Female Fine",
+   "year": 2023,
+   "client": "D9 Supershots",
+   "img": {
+    "src": "work/quicky-super-shots-female-fine-1ddd39.webp",
+    "thumb": "work/quicky-super-shots-female-fine-1ddd39.t.webp",
+    "w": 2123,
+    "h": 2160,
+    "color": "#c483b3",
+    "anim": false
+   }
+  },
+  {
+   "title": "Quicky Super-Shots: L1ve",
+   "year": 2023,
+   "client": "D9 Supershots",
+   "img": {
+    "src": "work/quicky-super-shots-l1ve-60955e.webp",
+    "thumb": "work/quicky-super-shots-l1ve-60955e.t.webp",
+    "w": 2123,
+    "h": 2160,
+    "color": "#9b74a5",
+    "anim": false
+   }
+  },
+  {
+   "title": "Quicky Super-Shots: L1ft",
+   "year": 2023,
+   "client": "D9 Supershots",
+   "img": {
+    "src": "work/quicky-super-shots-l1ft-06cfb2.webp",
+    "thumb": "work/quicky-super-shots-l1ft-06cfb2.t.webp",
+    "w": 2123,
+    "h": 2160,
+    "color": "#bca661",
+    "anim": false
+   }
+  },
+  {
+   "title": "Quicky Super-Shots: D-Stress",
+   "year": 2023,
+   "client": "D9 Supershots",
+   "img": {
+    "src": "work/quicky-super-shots-d-stress-1b0b03.webp",
+    "thumb": "work/quicky-super-shots-d-stress-1b0b03.t.webp",
+    "w": 2123,
+    "h": 2160,
+    "color": "#a887a5",
+    "anim": false
+   }
+  },
+  {
+   "title": "Bombay Bites menu",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/bombay-bites-menu-949a8c.webp",
+    "thumb": "work/bombay-bites-menu-949a8c.t.webp",
+    "w": 1697,
+    "h": 2400,
+    "color": "#802011",
+    "anim": false
+   }
+  },
+  {
+   "title": "Bombay Bites: Bombay ka Bawaal",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/bombay-bites-bombay-ka-bawaal-d3fd5e.webp",
+    "thumb": "work/bombay-bites-bombay-ka-bawaal-d3fd5e.t.webp",
+    "w": 1600,
+    "h": 2400,
+    "color": "#862a17",
+    "anim": false
+   }
+  },
+  {
+   "title": "Bombay Bites: Stall No. 2",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/bombay-bites-stall-no-2-e12c28.webp",
+    "thumb": "work/bombay-bites-stall-no-2-e12c28.t.webp",
+    "w": 1697,
+    "h": 2400,
+    "color": "#f9f3cf",
+    "anim": false
+   }
+  },
+  {
+   "title": "Farsissist",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/farsissist-296386.webp",
+    "thumb": "work/farsissist-296386.t.webp",
+    "w": 2160,
+    "h": 2160,
+    "color": "#0e0f15",
+    "anim": false
+   }
+  },
+  {
+   "title": "Lafaz: Ghair ki Ankhein",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/lafaz-ghair-ki-ankhein-09b148.webp",
+    "thumb": "work/lafaz-ghair-ki-ankhein-09b148.t.webp",
+    "w": 2000,
+    "h": 2000,
+    "color": "#050402",
+    "anim": false
+   }
+  },
+  {
+   "title": "Lafaz",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/lafaz-ee4066.webp",
+    "thumb": "work/lafaz-ee4066.t.webp",
+    "w": 2001,
+    "h": 2001,
+    "color": "#020000",
+    "anim": false
+   }
+  },
+  {
+   "title": "Liquid Lines",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/liquid-lines-16fc59.webp",
+    "thumb": "work/liquid-lines-16fc59.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#65604b",
+    "anim": false
+   }
+  },
+  {
+   "title": "Liquid Lines, mobile",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/liquid-lines-mobile-be2e40.webp",
+    "thumb": "work/liquid-lines-mobile-be2e40.t.webp",
+    "w": 1350,
+    "h": 2400,
+    "color": "#655f4b",
+    "anim": false
+   }
+  },
+  {
+   "title": "Fragile Yet Fierce, type",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/fragile-yet-fierce-type-679578.webp",
+    "thumb": "work/fragile-yet-fierce-type-679578.t.webp",
+    "w": 1080,
+    "h": 862,
+    "color": "#1a0f0f",
+    "anim": false
+   }
+  },
+  {
+   "title": "Emmency wall",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/emmency-wall-029ac0.webp",
+    "thumb": "work/emmency-wall-029ac0.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#f7d8d8",
+    "anim": false
+   }
+  },
+  {
+   "title": "Neuepaper display art",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/neuepaper-display-art-9d5a35.webp",
+    "thumb": "work/neuepaper-display-art-9d5a35.t.webp",
+    "w": 2400,
+    "h": 2400,
+    "color": "#fc2424",
+    "anim": false
+   }
+  },
+  {
+   "title": "No Good Men",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/no-good-men-8181dc.webp",
+    "thumb": "work/no-good-men-8181dc.t.webp",
+    "w": 2400,
+    "h": 1714,
+    "color": "#341010",
+    "anim": false
+   }
+  },
+  {
+   "title": "Go Goa Gone",
+   "year": 2026,
+   "client": "",
+   "img": {
+    "src": "work/go-goa-gone-14605b.webp",
+    "thumb": "work/go-goa-gone-14605b.t.webp",
+    "w": 2400,
+    "h": 1309,
+    "color": "#faeeea",
+    "anim": false
+   }
+  },
+  {
+   "title": "Movies that made 2023 worth it",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/movies-that-made-2023-worth-it-f38e3e.webp",
+    "thumb": "work/movies-that-made-2023-worth-it-f38e3e.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#594836",
+    "anim": false
+   }
+  },
+  {
+   "title": "Anime Cloud channel art",
+   "year": 2024,
+   "client": "Anime Cloud",
+   "img": {
+    "src": "work/anime-cloud-channel-art-773c0b.webp",
+    "thumb": "work/anime-cloud-channel-art-773c0b.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#110e0e",
+    "anim": false
+   }
+  },
+  {
+   "title": "Still in Motion",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/still-in-motion-0295a2.webp",
+    "thumb": "work/still-in-motion-0295a2.t.webp",
+    "w": 2048,
+    "h": 1152,
+    "color": "#010100",
+    "anim": false
+   }
+  },
+  {
+   "title": "Supwremm channel art",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/supwremm-channel-art-854b09.webp",
+    "thumb": "work/supwremm-channel-art-854b09.t.webp",
+    "w": 2048,
+    "h": 1152,
+    "color": "#010101",
+    "anim": false
+   }
+  },
+  {
+   "title": "Liquify",
+   "year": 2025,
+   "client": "",
+   "img": {
+    "src": "work/liquify-1af128.webp",
+    "thumb": "work/liquify-1af128.t.webp",
+    "w": 1350,
+    "h": 2400,
+    "color": "#373143",
+    "anim": false
+   }
+  },
+  {
+   "title": "Flow",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/flow-79ff74.webp",
+    "thumb": "work/flow-79ff74.t.webp",
+    "w": 1200,
+    "h": 1200,
+    "color": "#d6622e",
+    "anim": false
+   }
+  },
+  {
+   "title": "Red waves",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/red-waves-9533fd.webp",
+    "thumb": "work/red-waves-9533fd.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#1e0202",
+    "anim": false
+   }
+  },
+  {
+   "title": "Vengeance",
+   "year": 2026,
+   "client": "",
+   "img": {
+    "src": "work/vengeance-7d932b.webp",
+    "thumb": "work/vengeance-7d932b.t.webp",
+    "w": 2400,
+    "h": 1004,
+    "color": "#190f0c",
+    "anim": false
+   }
+  },
+  {
+   "title": "Call Me Hela",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/call-me-hela-cf43a1.webp",
+    "thumb": "work/call-me-hela-cf43a1.t.webp",
+    "w": 2400,
+    "h": 1350,
+    "color": "#1e0a00",
+    "anim": false
+   }
+  },
+  {
+   "title": "Pandora packaging",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/pandora-packaging-aa1fde.webp",
+    "thumb": "work/pandora-packaging-aa1fde.t.webp",
+    "w": 2400,
+    "h": 1800,
+    "color": "#ddd9db",
+    "anim": false
+   }
+  },
+  {
+   "title": "Only Bakes promo",
+   "year": 2024,
+   "client": "",
+   "img": {
+    "src": "work/only-bakes-promo-cd70d9.webp",
+    "thumb": "work/only-bakes-promo-cd70d9.t.webp",
+    "w": 1350,
+    "h": 2400,
+    "color": "#2e231d",
+    "anim": false
+   }
+  },
+  {
+   "title": "Madad Initiative",
+   "year": 2023,
+   "client": "Madad Initiative",
+   "img": {
+    "src": "work/madad-initiative-7a76bb.webp",
+    "thumb": "work/madad-initiative-7a76bb.t.webp",
+    "w": 1080,
+    "h": 1080,
+    "color": "#e5c675",
+    "anim": false
+   }
+  }
+ ],
+ "facts": {
+  "files": 564,
+  "since": 2015,
+  "tools": [
+   "Illustrator",
+   "Photoshop",
+   "Affinity Designer",
+   "Affinity Photo",
+   "Premiere Pro",
+   "Blender",
+   "Figma",
+   "Affinity",
+   "After Effects"
+  ]
+ }
+}

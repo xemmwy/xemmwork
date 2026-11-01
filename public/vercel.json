@@ -1,0 +1,8 @@
+{
+  "headers": [
+    { "source": "/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }] }
+  ],
+  "rewrites": [
+    { "source": "/favicon.ico", "destination": "/favicon.svg" }
+  ]
+}
